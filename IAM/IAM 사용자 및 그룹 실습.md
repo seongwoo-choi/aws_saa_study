@@ -18,23 +18,23 @@ root 유저만 모든 허가를 가지고 있고 사용자들을 생성해줄 �
 
 얘는 개발자고, 엔지니어링 작업을 한다. 이런식으로 태그를 걸어주는 것이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e15e3672-9518-4c80-b32f-42f71b63fb38/Untitled.png)
+![image](https://user-images.githubusercontent.com/67403886/155990595-5c17425e-713b-4dfc-9b85-d3d50cb8c30d.png)
 
 비밀번호가 자동 생성되는 경우라면 .csv 를 다운받아 놓는다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/642c79f3-e207-4ee6-a8b0-6459d9c0f812/Untitled.png)
+![image](https://user-images.githubusercontent.com/67403886/155990619-3c374381-acba-4413-a66e-5a64b0c155fd.png)
 
 Permissions 에서 정책명을 그룹에 붙여줄 수 있다. 해당 그룹에 속하는 모든 사용자들은 해당 정책에 의해 권한을 갖게 된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5894de3d-2603-4812-b6fb-b8dba270b0fe/Untitled.png)
+![image](https://user-images.githubusercontent.com/67403886/155990665-3307d2b6-5590-48ea-bb16-1a06bc3755dd.png)
 
 계정 별칭을 지어줄 수 있다. Account Alias 에서 create 를 통해 숫자 대신 계정 별칭을 지어주어서 쉽게 로그인할 수 있게 해준다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f310a58-178f-41be-8f5b-62789080d84a/Untitled.png)
+![image](https://user-images.githubusercontent.com/67403886/155990694-6e141452-a653-46dd-bccd-360164432066.png)
 
 Copy This URL 을 클릭하면 AWS 로그인 페이지로 이동하고
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f17960b8-32c6-4070-a31f-67119506d2e4/Untitled.png)
+![image](https://user-images.githubusercontent.com/67403886/155990719-ededaefc-3a57-43f4-ae46-159bf5b5c961.png)
 
 위와 같이 IAM 에서 정의한 사용자로 로그인할 수 있는 로그인 창이 나온다.
 
