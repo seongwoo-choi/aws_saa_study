@@ -69,4 +69,4 @@ c5d.4xlarge 를 살펴보면 16 개의 vCPU 와 32Gib 의 메모리를 갖는다
 
 이것들을 보면 vCPU 의 갯수보다는 메모리의 용량을 더 강조하고 있는 것을 확인할 수 있다.
 
-[https://instances.vantage.sh/](instances.vantage.sh/) 에서 AWS 의 모든 인스턴스 목록이 존재하고 리눅스 온디맨드 비용 등을 확인할 수 있다.
+[https://instances.vantage.sh/](https://instances.vantage.sh/ ) 에서 AWS 의 모든 인스턴스 목록이 존재하고 리눅스 온디맨드 비용 등을 확인할 수 있다.
