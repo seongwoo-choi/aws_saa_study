@@ -17,7 +17,7 @@
   - [IAM 모범 사례](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20%EB%AA%A8%EB%B2%94%20%EC%82%AC%EB%A1%80.md)
 
 
-- EC2
+- EC2 
   - [AWS 요금 설정](https://github.com/seongwoo-choi/aws_saa_study/blob/master/EC2/AWS%20%EC%98%88%EC%82%B0%20%EC%84%A4%EC%A0%95.md)
   - [EC2 기초](https://github.com/seongwoo-choi/aws_saa_study/blob/master/EC2/EC2%20%EA%B8%B0%EC%B4%88.md)
   - [EC2 인스턴스 생성](https://github.com/seongwoo-choi/aws_saa_study/blob/master/EC2/EC2%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1.md)
