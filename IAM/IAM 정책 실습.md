@@ -1,3 +1,5 @@
+# IAM 정책 실습
+
 ![image](https://user-images.githubusercontent.com/67403886/155990994-1407fdf7-99ef-4031-b95f-a7e4ffa76d96.png)
 
 현재 사용자는 권한이 없는 상태이다.
