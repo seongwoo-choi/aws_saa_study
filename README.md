@@ -2,7 +2,7 @@
 
 - IAM
   - [IAM 이란?](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%EC%9D%B4%EB%9E%80%3F.md)
-  - [IAM 사용자 및 그룹 실습](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20%EC%97%AD%ED%95%A0%20%EC%8B%A4%EC%8A%B5.md)
+  - [IAM 사용자 및 그룹 실습](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B0%8F%20%EA%B7%B8%EB%A3%B9%20%EC%8B%A4%EC%8A%B5.md)
   - [IAM 정책](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20%EC%A0%95%EC%B1%85.md)
   - [IAM 정책 실습](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20%EC%A0%95%EC%B1%85%20%EC%8B%A4%EC%8A%B5.md)
   - [IAM MFA 개요](https://github.com/seongwoo-choi/aws_saa_study/blob/master/IAM/IAM%20MFA%20%EA%B0%9C%EC%9A%94.md)
