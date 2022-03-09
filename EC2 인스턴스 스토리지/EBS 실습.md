@@ -8,7 +8,7 @@ EC2 인스턴스를 클릭하면 스토리지를 찾을 수 있다.
 
 블록 디바이스를 보면 선택한 인스턴스와 연결된 EBS 볼륨에 대한 자세한 정보들을 확인할 수 있다.
 
-![img.png](img.png)
+![img.png](image/img.png)
 
 볼륨 아이디를 클릭하면 EBS console 로 넘어간다. 
 
@@ -16,8 +16,8 @@ EBS console 로 넘어와서 필터 지우기를 눌러 필터링을 제거하�
 
 현재는 인스턴스 하나에 연결된 볼륨 하나 밖에 존재하지 않는다.
 
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img_1.png](image/img_1.png)
+![img_2.png](image/img_2.png)
 
 이 콘솔 창에서 EBS 볼륨을 생성할 수 있다. 
 
@@ -31,15 +31,15 @@ EBS console 로 넘어와서 필터 지우기를 눌러 필터링을 제거하�
 
 그래서 ap-northeast-2c 로 변경했다.
 
-![img_3.png](img_3.png)
+![img_3.png](image/img_3.png)
 
 EBS 를 암호화하거나 태그를 달 수도 있지만 여기서는 선택하지 않고 볼륨을 생성한다.
 
-![img_5.png](img_5.png)
+![img_5.png](image/img_5.png)
 
 현재 볼륨 상태를 보면 하나는 EC2 인스턴스에서 사용 중이고, 하나는 사용중이 아니다.
 
-![img_6.png](img_6.png)
+![img_6.png](image/img_6.png)
 
 사용 중이지 않은 볼륨은 같은 가용 영역에 존재해서 EC2 인스턴스에 연결할 수 있다.
 
@@ -47,21 +47,21 @@ EBS 를 암호화하거나 태그를 달 수도 있지만 여기서는 선택하
 
 그리고 연결하고자하는 인스턴스를 클릭한 후에 볼륨 연결 버튼을 클릭하면 된다.
 
-![img_7.png](img_7.png)
+![img_7.png](image/img_7.png)
 
 볼륨 상태가 사용 중으로 변경된 것을 확인할 수 있다.
 
-![img_8.png](img_8.png)
+![img_8.png](image/img_8.png)
 
 다시 EC2 인스턴스로 돌아와서 스토리지의 블록 디바이스를 확인하면 두개의 볼륨이 연결된 것을 볼 수 있다.
 
-![img_9.png](img_9.png)
+![img_9.png](image/img_9.png)
 
 EC2 인스턴스를 종료하면 EBS 루트 볼륨은 바로 삭제된다. EC2 인스턴스 옵션 중에 EBS 볼륨을 인스턴스 종료 시 삭제 기능을 활성화했기 때문이다.
 
 그러나 EBS console 에서 생성한 EBS 볼륨은 EC2 인스턴스 종료시 삭제 기능을 활성화 한적이 없기 때문에 EC2 인스턴스가 종료되도 삭제되지 않는다.
 
-![img_10.png](img_10.png)
-![img_11.png](img_11.png)
+![img_10.png](image/img_10.png)
+![img_11.png](image/img_11.png)
 
 EBS 볼륨은 클라우드 상에서 매우 쉽고 빠르게 저장 장치를 늘리고 줄일 수 있기 때문에 매우 유용하다.
