@@ -52,11 +52,11 @@ IAM 역할은 아무것도 건들지 않는다. 나중에는 EC2 가 IAM 역할�
 
 ```bash
 #!/bin/bash
-yum update -y
-yum install -y httpd
-systemctl start httpd
-systemctl enable httpd
-echo "<h1>hello world $(hostname -)</h1>" > /var/www/html/index.html
+sudo yum update -y
+sudo yum install -y httpd
+sudo systemctl start httpd
+sudo systemctl enable httpd
+sudo echo "<h1>hello world $(hostname -I)</h1>" > /var/www/html/index.html
 ```
 
 리눅스에서 사용하는 yum 패키지 매니저를 업데이트 하고 httpd 라이브러리를 다운받은 후에 httpd 를 실행하게 한다. 그 후 내 리눅스 환경의 hostname 에 대한 정보를 /var/www/html 디렉토리에 index.html 로 저장한다.
