@@ -1,6 +1,6 @@
 ### Records TTL
 
-![](image/8.png)
+![](images/8.png)
 
 예를 들어, 클라이언트가 myapp.example.com 도메인 명에 대해 Amazon Route 53 으로 쿼리를 보내면 DNS 로부터 응답을 받게 된다.
 

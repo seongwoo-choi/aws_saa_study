@@ -29,11 +29,11 @@ wwww.google.com
 - Top Level Domain(TLD) : .com, .us, .in, .gov, .org 등... 최상위 도메인이다.
 - Second Level Domain(SLD) : amazon.com, google.com, naver.com 등... 단어 사이에 . 이 있는 것을 볼 수 있다.
 - FQDN : 예시를 들어보자면 http://api.www.example.com. 이 있는데 마지막의 . 을 루트라고 하고, .com 은 최상위 도메인(TLD) 이고, example.com 이 세컨드 도메인이고, www.example.com 이 서브 도메인이고, api.www.example.com 이 도메인 이름이다. HTTP 는 프로토콜이고, 전부 합친 것을 FQDN 이라 부른다.
-![](image/1.png)
+![](images/1.png)
 
 ### DNS 동작
 
-![](image/2.png)
+![](images/2.png)
 
 example.com, IP는 9.10.11.12 를 갖는 웹 서버가 있다.
 
