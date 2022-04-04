@@ -1,4 +1,4 @@
-# Stateless Web App : WhatisTheTime.com
+# Stateless Web App : WhatsTheTime.com
 
 ### 예시
 
