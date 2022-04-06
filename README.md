@@ -80,3 +80,5 @@
   - [ElastiCache for Solution Architecture](https://github.com/seongwoo-choi/aws_saa_study/blob/master/RDS/ElastiCache%20for%20Solution%20Architecture.md)
 - Route 53
   - 
+- 클래식 솔루션 아키텍쳐
+  - 
