@@ -71,7 +71,7 @@
   - [Auto Scaling Group 조정 정책](https://github.com/seongwoo-choi/aws_saa_study/blob/master/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1%20%EB%B0%8F%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81(ELB%20%EB%B0%8F%20ASG)/Auto%20Sacling%20Group%20%EC%A1%B0%EC%A0%95%20%EC%A0%95%EC%B1%85.md)
   - [Auto Scaling Group - 솔루션 아키텍트용](https://github.com/seongwoo-choi/aws_saa_study/blob/master/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1%20%EB%B0%8F%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81(ELB%20%EB%B0%8F%20ASG)/Auto%20Scaling%20Group%20-%20%EC%86%94%EB%A3%A8%EC%85%98%20%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%9A%A9.md)
 - RDS
-  - [RDS 개요](https://github.com/seongwoo-choi/aws_saa_study/blob/master/RDS/RDS%20%EA%B0%9C%EC%9A%94.md)
+  - [RDS 개요](https://github.com/se리ongwoo-choi/aws_saa_study/blob/master/RDS/RDS%20%EA%B0%9C%EC%9A%94.md)
   - [RDS 읽기 전용 복제본 및 multi AZ](https://github.com/seongwoo-choi/aws_saa_study/blob/master/RDS/RDS%20%EC%9D%BD%EA%B8%B0%20%EC%A0%84%EC%9A%A9%20%EB%B3%B5%EC%A0%9C%EB%B3%B8%20%26%20multi%20AZ.md)
   - [RDS 암호화 및 보안](https://github.com/seongwoo-choi/aws_saa_study/blob/master/RDS/RDS%20%EC%95%94%ED%98%B8%ED%99%94%20%EB%B0%8F%20%EB%B3%B4%EC%95%88.md)
   - [Aurora 개요](https://github.com/seongwoo-choi/aws_saa_study/blob/master/RDS/Aurora%20%EA%B0%9C%EC%9A%94.md)
