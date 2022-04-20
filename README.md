@@ -83,3 +83,4 @@
 - 클래식 솔루션 아키텍쳐
   - 
 - 고급 S3 및 Athena
+- CloudFront 및 AWS 글로벌 액셀러레이터
