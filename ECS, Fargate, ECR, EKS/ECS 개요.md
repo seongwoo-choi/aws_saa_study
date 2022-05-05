@@ -8,7 +8,7 @@
 
 ### Amazon ECS Launch Type for ECS
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 - ECS 에는 두 가지 실행 유형이 있고 첫 번째로 Amazon EC2 실행 유형이다.
 - 리전과 VPC 두 개의 가용 영역에 Amazon ECS 클러스터가 존재한다.
@@ -29,7 +29,7 @@
 
 ### Fargate Launch Type for ECS
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 ECS 를 위한 Fargate 실행 유형에서는 위의 예제와 똑같은 상황이다.
 
@@ -45,7 +45,7 @@ ENI 별로 별개의 IP 가 할당되기 때문에 VPC 에 사설 IP 가 충분�
 
 ### IAM Roles for ECS Tasks
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 ECS 태스크들은 AWS 서비스(DynamoDB, Amazon S3..)에서 작업을 할 수 있다. 이를 위해서는 IAM 역할이 필요로 하다.
 
