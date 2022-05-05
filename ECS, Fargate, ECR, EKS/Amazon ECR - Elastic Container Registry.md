@@ -1,5 +1,7 @@
 # Amazon ECR - Elastic Container Registry
 
+![img_8.png](img_8.png)
+
 - 아마존에서 제공하는 컨테이너 저장소이다. AWS 에서 컨테이너를 저장, 관리 및 배포하기 위해 사용하며 사용하고 있는 용량에 따라 비용이 청구된다.
 - Amazon ECS 에 완전 통합된 서비스이며 보안 메커니즘을 위해 IAM 을 사용한다.
 - Amazon ECS 에 업로드 된 이미지는 모두 S3 에 저장된다. 
