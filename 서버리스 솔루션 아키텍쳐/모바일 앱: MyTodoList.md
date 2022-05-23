@@ -12,7 +12,7 @@
 
 ### REST API Layer
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 REST HTTPS 를 사용하기 위해 API Gateway 를 사용한다.
 
@@ -30,7 +30,7 @@ Cognito 는 AWS STS 를 통해 임시 자격 증명을 제공할 수 있다. S3 
 
 ### high read throughput static data
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 사용자가 늘어나기 시작하면 쓰기 처리량보다 읽기 처리량이 아주 많다는 것을 알 수 있게 된다.
 

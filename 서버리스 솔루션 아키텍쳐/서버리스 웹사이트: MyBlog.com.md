@@ -10,7 +10,7 @@
 
 ### Serving static content, globally
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 정적인 글로벌 컨텐츠를 제공해야 하는 상황이다.
 
@@ -36,7 +36,7 @@ public REST API 는 어떻게 추가할까? REST HTTPS 와 Amazon API Gateway �
 
 ### Use Welcome email flow
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 사용자가 회원가입을 했을 때 이메일을 보내고자 한다.
 
@@ -52,7 +52,7 @@ Amazon SES 는 이메일을 전송하는 AWS 서비스이다.
 
 ### Thumbnail Generation flow
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 CloudFront Global Distribution 에 OAI 를 사용하는 방식이 있다.
 
